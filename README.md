@@ -1,4 +1,4 @@
-## uEdit Scape 
+## uEdit Go! 
 
 My first app! :tada:
 
