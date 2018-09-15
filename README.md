@@ -7,7 +7,7 @@ Customise your phone with uEdit Go! This app performs all basic user story featu
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/AY5dDOM2da.gif" width=200><br>
+<img src="http://g.recordit.co/JhtgsKj0iT.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
