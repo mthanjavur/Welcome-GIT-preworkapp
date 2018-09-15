@@ -3,7 +3,7 @@
 My first app! :tada:
 
 ### App Description
-This app performs all basic required user story features such as custom text, text and background color change, feature reset, etc.!
+Customise your phone with uEdit Go! This app performs all basic user story features such as custom text, text and background color change, feature reset, etc.!
 
 ### App Walk-though
 
